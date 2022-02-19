@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: winston
+  description: A logger for just about everything.
+  tags: 
+    - node.js
+    - javascript
+    - logging
+  annotations:
+    github.com/project-slug: marvin-corea-cvshealth/winston
+spec:
+  type: auth
+  lifecycle: dev
+  owner: DevSecOps
+  system: node.js
