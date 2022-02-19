@@ -4,7 +4,7 @@ metadata:
   name: winston
   description: A logger for just about everything.
   tags: 
-    - node.js
+    - node
     - javascript
     - logging
   annotations:
@@ -13,4 +13,4 @@ spec:
   type: auth
   lifecycle: dev
   owner: DevSecOps
-  system: node.js
+  system: node
